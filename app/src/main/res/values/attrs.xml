@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="layoutExpandable">
+        <attr name="layoutExpandable_offset_percent" format="float" />
+        <attr name="layoutExpandable_offset_dimension" format="dimension" />
+        <attr name="layoutExpandable_expand_percent" format="float" />
+        <attr name="layoutExpandable_expand_dimension" format="dimension" />
+    </declare-styleable>
+</resources>
